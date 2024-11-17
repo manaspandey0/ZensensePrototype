@@ -1,3 +1,7 @@
+# **ZenSense AI Prototype**  
+
+ZenSense AI is a smart in-car mental health assistant that enhances your driving experience by detecting your mood in real time using AI. It customizes the car's environment—adjusting lighting, temperature, music, and seat positioning—to promote comfort and well-being. With a live camera feed, mood history tracking, and mood-specific tips, ZenSense ensures a balanced and enjoyable journey.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
